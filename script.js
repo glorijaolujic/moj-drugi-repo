@@ -1,1 +1,1 @@
-console.log("druga vjezba");
+console.log("druga vjezba-test1");
